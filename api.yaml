@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: rpe-sweet-api
-  description: Super sweet API
+  name: swagger-petstore
+  description: Swagger Petstore
 spec:
   type: openapi
   definition: |
