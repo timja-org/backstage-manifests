@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: example-app
   annotations:
-    'jenkins.io/job-full-name': cft:teamA/pipeline
+    'jenkins.io/job-full-name': cft:workflow-multi
   links:
     - url: https://example.com/user
       title: Examples Users
