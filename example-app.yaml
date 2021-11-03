@@ -12,4 +12,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: user:tim.jacomb@hmcts.net
+  owner: 6a5ae2c1-4
