@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: example-app
   annotations:
-    'jenkins.io/job-full-name': cft:workflow-multi
+    jenkins.io/job-full-name: cft:workflow-multi
+    github.com/project-slug: hmcts/azure-platform-terraform
   links:
     - url: https://example.com/user
       title: Examples Users
