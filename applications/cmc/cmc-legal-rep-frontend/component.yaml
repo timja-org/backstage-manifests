@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cmc-legal-rep-frontend
+  annotations:
+    jenkins.io/job-full-name: cft:workflow-multi
+    github.com/project-slug: hmcts/cmc-legal-rep-frontend
+  tags:
+    - nodejs
+  links:
+    - url: https://hmcts-reform.slack.com/app_redirect?channel=cmc-tech
+      title: cmc-tech on Slack
+      icon: chat
+spec:
+  type: service
+  lifecycle: experimental
+  owner: a9eecf20-518d-4d23-96ff-739947a60ac8
+  system: ocmc
+  dependsOn:
+    - Service:cmc-claim-store

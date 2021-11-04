@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: cmc-claim-store
+  description: Generates case IDs
+spec:
+  type: database
+  owner: a9eecf20-518d-4d23-96ff-739947a60ac8
+  system: ocmc

@@ -9,6 +9,9 @@ metadata:
     - url: https://github.com/hmcts/rpe-pdf-service
       title: Repo
       icon: user
+    - url: https://hmcts-reform.slack.com/app_redirect?channel=cloud-native
+      title: cloud-native on Slack
+      icon: chat
 spec:
   type: service
   lifecycle: experimental

@@ -4,9 +4,9 @@ metadata:
   name: ccd-data-store-api
   description: CCD Data Store
   links:
-    - url: https://github.com/hmcts/ccd-data-store-api
-      title: GitHub Repo
-      icon: github
+    - url: https://hmcts-reform.slack.com/app_redirect?channel=ccd_support
+      title: ccd_support on Slack
+      icon: chat
 spec:
   type: openapi
   lifecycle: production

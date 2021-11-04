@@ -5,9 +5,11 @@ metadata:
   annotations:
     jenkins.io/job-full-name: cft:workflow-multi
     github.com/project-slug: hmcts/ccd-data-store-api
+  tags:
+    - java
   links:
-    - url: https://github.com/hmcts/cnp-plum-recipes-service
-      title: Repo
+    - url: https://hmcts-reform.slack.com/app_redirect?channel=ccd_support
+      title: ccd_support on Slack
       icon: chat
 spec:
   type: service
