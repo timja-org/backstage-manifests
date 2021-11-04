@@ -6,3 +6,4 @@ metadata:
 spec:
   owner: 6a5ae2c1-4
   domain: workflow
+  lifecycle: experimental
