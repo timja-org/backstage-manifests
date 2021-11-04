@@ -3,6 +3,10 @@ kind: System
 metadata:
   name: ccd
   description: Core Case Data
+  links:
+    - url: https://github.com/hmcts/cnp-plum-recipes-service
+      title: Repo
+      icon: user
 spec:
   owner: f7f2ea64-4b8c-48a4-b506-b713a3a05000
   domain: case-management
