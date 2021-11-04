@@ -5,6 +5,7 @@ metadata:
   description: Swagger Petstore
 spec:
   type: openapi
+  lifecycle: production
   definition: |
     openapi: "3.0.0"
     info:
