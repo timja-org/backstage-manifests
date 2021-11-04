@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: ccd-data-store-api
+  description: Stores cases
+spec:
+  type: database
+  owner: f7f2ea64-4b8c-48a4-b506-b713a3a05000
+  system: ccd
