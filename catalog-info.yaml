@@ -13,6 +13,8 @@ spec:
     - product/pdf-service.yaml
     - product/plum.yaml
     - product/toffee.yaml
+    - applications/ccd-data-store-api/component.yaml
+    - applications/ccd-definition-store-api/component.yaml
     - applications/cnp-plum-recipes-service/component.yaml
     - applications/rpe-pdf-service/component.yaml
     - applications/s2s/component.yaml
