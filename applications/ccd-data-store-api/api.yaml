@@ -3,6 +3,10 @@ kind: API
 metadata:
   name: ccd-data-store-api
   description: CCD Data Store
+  links:
+    - url: https://github.com/hmcts/ccd-data-store-api
+      title: GitHub Repo
+      icon: github
 spec:
   type: openapi
   lifecycle: production

@@ -14,6 +14,7 @@ spec:
     - product/plum.yaml
     - product/toffee.yaml
     - applications/ccd-data-store-api/component.yaml
+    - applications/ccd-data-store-api/api.yaml
     - applications/ccd-data-store-api/database.yaml
     - applications/ccd-definition-store-api/component.yaml
     - applications/ccd-definition-store-api/database.yaml
