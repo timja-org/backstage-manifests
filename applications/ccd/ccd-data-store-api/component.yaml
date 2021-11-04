@@ -7,6 +7,7 @@ metadata:
     github.com/project-slug: hmcts/ccd-data-store-api
   tags:
     - java
+    - cft
   links:
     - url: https://hmcts-reform.slack.com/app_redirect?channel=ccd_support
       title: ccd_support on Slack

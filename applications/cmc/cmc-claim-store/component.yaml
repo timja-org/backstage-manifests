@@ -7,6 +7,7 @@ metadata:
     github.com/project-slug: hmcts/cmc-claim-store
   tags:
     - java
+    - cft
   links:
     - url: https://hmcts-reform.slack.com/app_redirect?channel=cmc-tech
       title: cmc-tech on Slack
