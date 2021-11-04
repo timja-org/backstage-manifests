@@ -1,15 +1,16 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: service-auth-provider-app
+  name: rpe-pdf-service
   annotations:
     jenkins.io/job-full-name: cft:workflow-multi
-    github.com/project-slug: hmcts/service-auth-provider-app
+    github.com/project-slug: hmcts/rpe-pdf-service
   links:
-    - url: https://github.com/hmcts/service-auth-provider-app
+    - url: https://github.com/hmcts/rpe-pdf-service
       title: Repo
       icon: user
 spec:
   type: service
   lifecycle: experimental
   owner: 6a5ae2c1-4
+  system: pdf-service

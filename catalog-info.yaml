@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: all-services
+  description: A collection of all Backstage examples
+spec:
+  targets:
+    - example-app.yaml
+    - api.yaml
+    - product/camunda.yaml
+    - product/ccd.yaml
+    - product/draft-store.yaml
+    - product/pdf-service.yaml
+    - product/plum.yaml
+    - product/toffee.yaml
+    - applications/cnp-plum-recipes-service/component.yaml
+    - applications/rpe-pdf-service/component.yaml
+    - applications/s2s/component.yaml

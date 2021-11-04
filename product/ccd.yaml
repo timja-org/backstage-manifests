@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: ccd
+  description: Core Case Data
+spec:
+  owner: f7f2ea64-4b8c-48a4-b506-b713a3a05000
+  domain: case-management
