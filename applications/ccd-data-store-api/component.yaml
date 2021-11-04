@@ -8,9 +8,11 @@ metadata:
   links:
     - url: https://github.com/hmcts/cnp-plum-recipes-service
       title: Repo
-      icon: user
+      icon: chat
 spec:
   type: service
   lifecycle: experimental
   owner: f7f2ea64-4b8c-48a4-b506-b713a3a05000
   system: ccd
+  dependsOn:
+    - ccd-data-store-api
