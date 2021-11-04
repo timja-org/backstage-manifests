@@ -18,5 +18,5 @@ spec:
   system: ocmc
   dependsOn:
     - Service:cmc-claim-store
-  consumesApi:
+  consumesApis:
     - cmc-claim-store

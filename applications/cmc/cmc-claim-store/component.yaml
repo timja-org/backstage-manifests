@@ -18,7 +18,7 @@ spec:
   system: ocmc
   providesApis:
     - cmc-claim-store
-  consumesApi:
+  consumesApis:
     - ccd-data-store-api
   dependsOn:
     - Resource:cmc-claim-store

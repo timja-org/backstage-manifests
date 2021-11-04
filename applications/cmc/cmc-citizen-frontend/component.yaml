@@ -16,6 +16,6 @@ spec:
   lifecycle: experimental
   owner: a9eecf20-518d-4d23-96ff-739947a60ac8
   system: ocmc
-  consumesApi:
+  consumesApis:
     - cmc-claim-store
 
