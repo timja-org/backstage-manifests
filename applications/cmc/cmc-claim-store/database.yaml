@@ -5,5 +5,5 @@ metadata:
   description: Generates case IDs
 spec:
   type: database
-  owner: a9eecf20-518d-4d23-96ff-739947a60ac8
+  owner: dcd_cmc
   system: ocmc

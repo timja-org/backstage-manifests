@@ -15,7 +15,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: a9eecf20-518d-4d23-96ff-739947a60ac8
+  owner: dcd_cmc
   system: ocmc
   providesApis:
     - cmc-claim-store

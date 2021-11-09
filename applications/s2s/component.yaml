@@ -12,5 +12,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: 6a5ae2c1-4
+  owner: dts_platform_operations
   system: s2s

@@ -4,5 +4,5 @@ metadata:
   name: ocmc
   description: Civil Money Claims
 spec:
-  owner: a9eecf20-518d-4d23-96ff-739947a60ac8
+  owner: dcd_cmc
   domain: case-management
