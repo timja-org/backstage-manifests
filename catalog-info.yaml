@@ -26,6 +26,6 @@ spec:
     - applications/cmc/cmc-claim-store/api.yaml
     - applications/cmc/cmc-claim-store/database.yaml
 
-    # - applications/cnp-plum-recipes-service/component.yaml
-    # - applications/rpe-pdf-service/component.yaml
-    # - applications/s2s/component.yaml
+    - applications/cnp-plum-recipes-service/component.yaml
+    - applications/rpe-pdf-service/component.yaml
+    - applications/s2s/component.yaml
