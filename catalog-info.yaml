@@ -13,8 +13,9 @@ spec:
 
     - applications/ccd/product.yaml
     - applications/ccd/ccd-data-store-api/database.yaml
+    - applications/ccd/ccd-data-store-api/api.yaml
     - applications/ccd/ccd-data-store-api/component.yaml
-    # - applications/ccd/ccd-data-store-api/api.yaml
+    # 
     # - applications/ccd/ccd-definition-store-api/component.yaml
     # - applications/ccd/ccd-definition-store-api/database.yaml
 
