@@ -19,12 +19,12 @@ spec:
     # - applications/ccd/ccd-definition-store-api/component.yaml
     # - applications/ccd/ccd-definition-store-api/database.yaml
 
-    # - applications/cmc/product.yaml
-    # - applications/cmc/cmc-citizen-frontend/component.yaml
-    # - applications/cmc/cmc-legal-rep-frontend/component.yaml
-    # - applications/cmc/cmc-claim-store/component.yaml
-    # - applications/cmc/cmc-claim-store/api.yaml
-    # - applications/cmc/cmc-claim-store/database.yaml
+    - applications/cmc/product.yaml
+    - applications/cmc/cmc-citizen-frontend/component.yaml
+    - applications/cmc/cmc-legal-rep-frontend/component.yaml
+    - applications/cmc/cmc-claim-store/component.yaml
+    - applications/cmc/cmc-claim-store/api.yaml
+    - applications/cmc/cmc-claim-store/database.yaml
 
     # - applications/cnp-plum-recipes-service/component.yaml
     # - applications/rpe-pdf-service/component.yaml
