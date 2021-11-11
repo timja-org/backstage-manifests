@@ -23,7 +23,7 @@ spec:
     - applications/cmc/cmc-citizen-frontend/component.yaml
     - applications/cmc/cmc-legal-rep-frontend/component.yaml
     - applications/cmc/cmc-claim-store/component.yaml
-    - applications/cmc/cmc-claim-store/api.yaml
+    # - applications/cmc/cmc-claim-store/api.yaml
     - applications/cmc/cmc-claim-store/database.yaml
 
     # - applications/cnp-plum-recipes-service/component.yaml
