@@ -8,7 +8,7 @@ spec:
     - product/camunda.yaml
     - product/draft-store.yaml
     - product/pdf-service.yaml
-    - product/plum.yaml
+#    - product/plum.yaml
     - product/toffee.yaml
 
     - applications/ccd/product.yaml
